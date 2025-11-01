@@ -1,6 +1,9 @@
 # Instrument Automation with Python and PyVISA
 
-This repository contains basic examples of instrument control using **Python** and **PyVISA** with SCPI commands.
+This is my first GitHub repository, created mainly for learning and sharing.
+I hope it can help someone that is just starting like me :).
+This project give us a really basic insight on Instrument Autotion with PyVisa, and its use on industry.
+
 
 ## 📂 Project Structure
 ```
