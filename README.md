@@ -1,8 +1,9 @@
 # Instrument Automation with Python and PyVISA
 
 This is my first GitHub repository, created mainly for learning and sharing.
-I hope it can help someone that is just starting like me :).
-This project give us a really basic insight on Instrument Autotion with PyVisa, and its use on industry.
+I hope it can help someone that is just starting, like me :)!
+
+This project give us a very basic insight on Instrument Automation with PyVisa, and its use in the industry.
 
 
 ## 📂 Project Structure
